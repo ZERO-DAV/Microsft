@@ -16,4 +16,4 @@ Skip the manual downloads and complex command lines. You can trigger the entire 
 4. Copy and paste the command below, then press **Enter**:
 
 ```powershell
-irm [https://raw.githubusercontent.com/ZERO-DAV/Microsft/refs/heads/main/Install-Office365.ps1](https://raw.githubusercontent.com/ZERO-DAV/Microsft/refs/heads/main/Install-Office365.ps1) | iex
+irm https://raw.githubusercontent.com/ZERO-DAV/Microsft/refs/heads/main/Install-Office365.ps1 | iex
